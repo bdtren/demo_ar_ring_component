@@ -1,0 +1,21 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/models/dot.obj",
+      "sha1": "9d1f6fec53c1abd78e018473de7c6f844c31b3c1"
+    },
+    {
+      "path": "src/assets/models/ring_3d.glb",
+      "sha1": "0bacd98dbe5d008b65d04f4d4be2cc6f87ad5c8c"
+    },
+    {
+      "path": "src/assets/models/ring_3d.mtl",
+      "sha1": "8875775df8991233e7ef731ea2c5b5ebd1d14677"
+    },
+    {
+      "path": "src/assets/models/ring_3d.obj",
+      "sha1": "bcbb319375c4add51a58af5a5e6ef4d5785e99d7"
+    }
+  ]
+}
