@@ -1,5 +1,9 @@
 Demo ring try on feature using [hand detection of mediapipe](https://ai.google.dev/edge/mediapipe/solutions/vision/hand_landmarker) and 3D (.obj) object drawing. Turbo Module and Fabric component approach
 
+# Demo
+- Android: [![Watch the video](https://img.youtube.com/vi/0C0ZqZRUasI/0.jpg)](https://www.youtube.com/watch?v=0C0ZqZRUasI)
+- iOS: [![Watch the video](https://img.youtube.com/vi/X8txXZwSkNw/0.jpg)](https://www.youtube.com/watch?v=X8txXZwSkNw)
+
 # Getting Started
 
 > **Note**: Make sure you have completed the [Set Up Your Environment](https://reactnative.dev/docs/set-up-your-environment) guide before proceeding.
