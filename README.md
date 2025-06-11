@@ -1,4 +1,4 @@
-Demo ring try on feature using [hand detection of mediapipe](https://ai.google.dev/edge/mediapipe/solutions/vision/hand_landmarker) and 3D (.obj) object drawing. Turbo Module approach
+Demo ring try on feature using [hand detection of mediapipe](https://ai.google.dev/edge/mediapipe/solutions/vision/hand_landmarker) and 3D (.obj) object drawing. Turbo Module and Fabric component approach
 
 # Getting Started
 
